@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="balance_color">#000000</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="empty1_color">#FFFFFF</color>
+    <color name="empty2_color">#FFFFFF</color>
+    <color name="interest_color">#000000</color>
+    <color name="payment_color">#000000</color>
+    <color name="empty3_color">#FFFFFF</color>
+    <color name="final_color">#000000</color>
+    <color name="empty4_color">#FFFFFF</color>
+    <color name="months_color">#000000</color>
+    <color name="empty5_color">#FFFFFF</color>
+    <color name="paid_color">#000000</color>
+    <color name="empty6_color">#FFFFFF</color>
+    <color name="compute_color">#FFFFFF</color>
+    <color name="compute_text_color">#000000</color>
+    <color name="clear_color">#FFFFFF</color>
+    <color name="clear_text_color">#000000</color>
+
+</resources>

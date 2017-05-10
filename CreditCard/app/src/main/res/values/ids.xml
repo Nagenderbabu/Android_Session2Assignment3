@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="balance_view" type="id">Card Balance</item>
+    <item name="empty_view1" type="id">empty_view1</item>
+    <item name="interest_view" type="id">interest_view</item>
+    <item name="empty_view2" type="id">empty_view2</item>
+    <item name="payment_view" type="id">payment_view</item>
+    <item name="empty_view3" type="id">empty_view3</item>
+    <item name="final_view" type="id">final_view</item>
+    <item name="empty_view4" type="id">empty_view4</item>
+    <item name="months_view" type="id">months_view</item>
+    <item name="empty_view5" type="id">empty_view5</item>
+    <item name="paid_view" type="id">paid_view</item>
+    <item name="empty_view6" type="id">empty_view6</item>
+    <item name="compute_view" type="id">Compute</item>
+    <item name="clear_view" type="id">Clear</item>
+
+</resources>

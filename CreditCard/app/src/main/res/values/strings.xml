@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CreditCard</string>
+    <string name="action_settings">Settings</string>
+    <string name="balance_text">Enter Card Balance (5)</string>
+    <string name="interest_text">Enter Yearly Interest Rate (%)</string>
+    <string name="payment_text">Enter Minimum Payment (5)</string>
+    <string name="final_text">Final Card Balance (5)</string>
+    <string name="months_text">Months Remaining</string>
+    <string name="paid_text">Interest Paid will be (5)</string>
+    <string name="compute_text">COMPUTE</string>
+    <string name="clear_text">CLEAR</string>
+</resources>
