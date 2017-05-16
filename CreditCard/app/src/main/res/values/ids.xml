@@ -16,4 +16,13 @@
     <item name="compute_view" type="id">Compute</item>
     <item name="clear_view" type="id">Clear</item>
 
+    <item name="layout1" type="id">balanceView</item>
+    <item name="layout2" type="id">InterestRate</item>
+    <item name="layout3" type="id">Minimum Payment</item>
+    <item name="layout4" type="id">FinalBalance</item>
+    <item name="layout5" type="id">MonthsRemaining</item>
+    <item name="layout6" type="id">InterestPaid</item>
+    <item name="layout7" type="id">Compute</item>
+    <item name="layout8" type="id">Clearvalues</item>
+
 </resources>
